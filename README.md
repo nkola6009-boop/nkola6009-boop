@@ -1,16 +1,16 @@
-## Hi there 👋
+# ХАЙ!
+![mygigt](https://media1.tenor.com/m/-HjUievG4yQAAAAd/thors-vinland-saga.gif)
+ *МЕНЯ ЗОВУТ ТИМУР!*
 
-<!--
-**nkola6009-boop/nkola6009-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ОБО МНЕ 💬:
+__- Мне 16 лет, я учусь на программиста в колледже__
+![mygift](https://media1.tenor.com/m/mXfcJvEq8hYAAAAC/gojo-vs-sukuna-satoru-gojo.gif)
+### -Хобби:
+__•✨ Просмотр аниме ✨__
 
-Here are some ideas to get you started:
+__•✨ Люблю поиграть в игры ✨__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__•✨ Коллекционирую фигурки аниме и игровые ✨__
+
+__•✨ Пешие походы ✨__
+![красота Айзен](https://avatars.mds.yandex.net/i?id=16a7a9b7d02eab58bb82de64f58fd352_l-5280171-images-thumbs&n=13)
